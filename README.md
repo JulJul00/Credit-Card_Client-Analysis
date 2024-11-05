@@ -36,7 +36,7 @@ In 2023, ABC Inc. displayed steady performance across its key metrics, achieving
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
 The entire interactive dashboard can be downloaded here.
-(https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Overview.png)
+!(https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Overview.png)
 
 
 ### Transaction Trend:
