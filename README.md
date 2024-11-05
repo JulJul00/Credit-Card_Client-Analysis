@@ -14,6 +14,8 @@ Insights and recommendations are provided on the following key areas:
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 An interactive PowerBI dashboard used to report and explore sales trends can be found here [link].
 
+**Note:** The dataset is randomly augmented by ChatGPT.
+
 
 # Data Structure & Initial Checks
 
