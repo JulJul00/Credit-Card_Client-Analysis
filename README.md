@@ -16,7 +16,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 An interactive PowerBI dashboard used to report and explore sales trends can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/raw/main/ABC%20Inc..pbix).
 
 
-**Note:** The dataset is randomly augmented by ChatGPT.
+**Note: The dataset is randomly augmented by ChatGPT.**
 
 
 
