@@ -11,9 +11,9 @@ Insights and recommendations are provided on the following key areas:
 - **Customer Background Analysis:** An assessment of the customer information metrics, includeds Customer Satisfaction Score, Deliquency Rate, Age Group, Job Type, and Educational Level.
 - **Credit Card and Expenditure Category Performance:** An analysis of ABC's Card Categories and Expenditure Types, includes Transaction Revenue, and Order Volume.
 
-  The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The SQL queries used to inspect and clean the data for this analysis can be found here [link].
   
-  An interactive PowerBI dashboard used to report and explore sales trends can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/raw/main/ABC%20Inc..pbix).
+An interactive PowerBI dashboard used to report and explore sales trends can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/raw/main/ABC%20Inc..pbix).
 
 
 **Note:** The dataset is randomly augmented by ChatGPT.
@@ -37,7 +37,7 @@ The companies main database structure as seen below consists of four tables: tab
 In 2023, ABC Inc. displayed steady performance across its key metrics, achieving a total revenue of 142.12M, an average utilisation ratio of 49.14%, a transaction count of 3M, and a customer acquisition cost of 2M. The quarter-wise revenue and transactions chart shows a peak in Q2, followed by a gradual decline through Q3 and Q4. Monthly revenue trends indicate fluctuations throughout the year, with noticeable highs in early and mid-2023.
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
-The entire interactive dashboard can be downloaded here.
+The entire interactive dashboard can be downloaded [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/raw/main/ABC%20Inc..pbix).
 
 ![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Overview.png)
 
