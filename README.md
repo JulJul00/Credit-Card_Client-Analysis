@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Customer Background Analysis:** An assessment of the customer information metrics, includeds Customer Satisfaction Score, Deliquency Rate, Age Group, Job Type, and Educational Level.
 - **Credit Card and Expenditure Category Performance:** An analysis of ABC's Card Categories and Expenditure Types, includes Transaction Revenue, and Order Volume.
 
-The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/file/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql).
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/SQL%20Queries/Cleaning%20Data%20for%20Analysis.sql).
   
 An interactive PowerBI dashboard used to report and explore sales trends can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/raw/main/ABC%20Inc..pbix).
 
@@ -21,13 +21,14 @@ An interactive PowerBI dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+ABC's database structure as seen below consists of two tables: credit card, and customer, with a total row count of 22,000 records.
 - **Table 2:**
 - **Table 3:**
 - **Table 4:**
 - **Table 5:**
 
 [Entity Relationship Diagram here]
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarisation with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here.
 
 
 # Executive Summary
