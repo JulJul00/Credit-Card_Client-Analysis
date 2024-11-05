@@ -24,7 +24,7 @@ An interactive PowerBI dashboard used to report and explore sales trends can be 
 
 ABC's database structure as seen below consists of two tables: credit card, and customer, with a total row count of 22,000 records.
 
-![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation%20Transaction%20Trend.png)
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20ERD.png)
 
 Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarisation with the datasets. The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql).
 
