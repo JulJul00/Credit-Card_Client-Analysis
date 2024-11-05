@@ -50,7 +50,7 @@ The entire interactive dashboard can be downloaded here.
   
 * **Weekly Revenue Trends:** Week-over-Week (WoW) analysis indicates revenue fluctuations with marked dips in February and May, followed by recoveries in March and November. These changes may be influenced by macroeconomic factors or changes in consumer behavior across different periods.
 
-![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Transaction%20Trend.png))
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Transaction%20Trend.png)
 
 
 ### Customer Background Analysis:
@@ -63,7 +63,7 @@ The entire interactive dashboard can be downloaded here.
   
 * **Educational and Job Profile Distribution:** Customers with a college education represent the largest segment with 30M in revenue, and job types such as teachers and engineers generate high revenues, with each contributing over 24M. Understanding the preferences of these segments can help in tailoring products and services more effectively.
 
-[Visualization specific to category 2]
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Customer%20Background.png)
 
 
 ### Credit Card and Expenditure Category Performance:
