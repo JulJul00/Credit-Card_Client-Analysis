@@ -98,9 +98,9 @@ Based on the insights and findings above, the following recommendations have bee
   
 
 
-# Assumptions:
+# Assumption:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+Throughout the analysis, an assumption was made to manage challenges with the data. This assumption is noted below:
 
 * **Card Activation within 30 Days:** For the "Card Activation within 30 Days" metric, it is assumed that all card activations were correctly recorded within the specified time frame. If some activations were delayed or recorded inaccurately, this could skew the analysis of early card engagement, potentially affecting the insights on customer loyalty and usage patterns.
 
