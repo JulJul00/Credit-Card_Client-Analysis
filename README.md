@@ -39,7 +39,7 @@ In 2023, ABC Inc. displayed steady performance across its key metrics, achieving
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
 The entire interactive dashboard can be downloaded [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/raw/main/ABC%20Inc..pbix).
 
-![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation%20Overview.png)
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation_Overview.jpg)
 
 
 ### Transaction Trend:
@@ -52,7 +52,7 @@ The entire interactive dashboard can be downloaded [here](https://github.com/Jul
   
 * **Weekly Revenue Trends:** Week-over-Week (WoW) analysis indicates revenue fluctuations with marked dips in February and May, followed by recoveries in March and November. These changes may be influenced by macroeconomic factors or changes in consumer behavior across different periods.
 
-![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation%20Transaction%20Trend.png)
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation_Transaction%20Trend.jpg)
 
 
 ### Customer Background Analysis:
@@ -65,7 +65,7 @@ The entire interactive dashboard can be downloaded [here](https://github.com/Jul
   
 * **Educational and Job Profile Distribution:** Customers with a college education represent the largest segment with 30M in revenue, and job types such as teachers and engineers generate high revenues, with each contributing over 24M. Understanding the preferences of these segments can help in tailoring products and services more effectively.
 
-![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation%20Customer%20Background.png)
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation_Customer%20Background.jpg)
 
 
 ### Credit Card and Expenditure Category Performance:
@@ -78,7 +78,7 @@ The entire interactive dashboard can be downloaded [here](https://github.com/Jul
   
 * **Platinum Card Spend in Travel and Dining:** Platinum cardholders contributed significantly to revenue in both travel (5.6M) and dining (1.6M) categories. This suggests that Platinum cardholders have unique spending habits and may benefit from targeted offers in these categories to further drive loyalty and spending.
 
-![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation%20Category%20Performance.png)
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation_Category%20Performance.jpg)
 
 
 
