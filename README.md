@@ -82,7 +82,7 @@ The entire interactive dashboard can be downloaded [here](https://github.com/Jul
   
 * **Platinum Card Spend in Travel and Dining:** Platinum cardholders contributed significantly to revenue in both travel (5.6M) and dining (1.6M) categories. This suggests that Platinum cardholders have unique spending habits and may benefit from targeted offers in these categories to further drive loyalty and spending.
 
-![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Category%20Performance.png)
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation%20Category%20Performance.png)
 
 
 
