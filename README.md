@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Customer Background Analysis:** An assessment of the customer information metrics, includeds Customer Satisfaction Score, Deliquency Rate, Age Group, Job Type, and Educational Level.
 - **Credit Card and Expenditure Category Performance:** An analysis of ABC's Card Categories and Expenditure Types, includes Transaction Revenue, and Order Volume.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The SQL queries used to inspect and clean the data for this analysis can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql).
   
 An interactive PowerBI dashboard used to report and explore sales trends can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/raw/main/ABC%20Inc..pbix).
 
