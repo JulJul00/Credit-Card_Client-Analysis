@@ -69,7 +69,7 @@ The entire interactive dashboard can be downloaded [here](https://github.com/Jul
   
 * **Educational and Job Profile Distribution:** Customers with a college education represent the largest segment with 30M in revenue, and job types such as teachers and engineers generate high revenues, with each contributing over 24M. Understanding the preferences of these segments can help in tailoring products and services more effectively.
 
-![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Customer%20Background.png)
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation%20Customer%20Background.png)
 
 
 ### Credit Card and Expenditure Category Performance:
