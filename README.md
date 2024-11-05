@@ -19,6 +19,7 @@ An interactive PowerBI dashboard used to report and explore sales trends can be 
 **Note:** The dataset is randomly augmented by ChatGPT.
 
 
+
 # Data Structure & Initial Checks
 
 ABC's database structure as seen below consists of two tables: credit card, and customer, with a total row count of 22,000 records.
@@ -28,7 +29,9 @@ ABC's database structure as seen below consists of two tables: credit card, and 
 - **Table 5:**
 
 [Entity Relationship Diagram here]
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarisation with the datasets. The SQL queries utilized to inspect and perform quality checks can be found here.
+
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarisation with the datasets. The SQL queries utilized to inspect and perform quality checks can be found [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/SQL%20Queries/Example%20Initial%20Data%20Checks.sql).
+
 
 
 # Executive Summary
