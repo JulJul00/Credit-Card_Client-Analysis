@@ -50,7 +50,7 @@ The entire interactive dashboard can be downloaded here.
   
 * **Weekly Revenue Trends:** Week-over-Week (WoW) analysis indicates revenue fluctuations with marked dips in February and May, followed by recoveries in March and November. These changes may be influenced by macroeconomic factors or changes in consumer behavior across different periods.
 
-[Visualization specific to category 1]
+![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Transaction%20Trend.png))
 
 
 ### Customer Background Analysis:
