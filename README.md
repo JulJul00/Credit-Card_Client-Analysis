@@ -34,7 +34,7 @@ Prior to beginning the analysis, a variety of checks were conducted for quality 
 
 ### Overview of Findings
 
-In 2023, ABC Inc. displayed steady performance across its key metrics, achieving a total revenue of 142.12M, an average utilisation ratio of 49.14%, a transaction count of 3M, and a customer acquisition cost of 2M. The quarter-wise revenue and transactions chart shows a peak in Q2, followed by a gradual decline through Q3 and Q4. Monthly revenue trends indicate fluctuations throughout the year, with noticeable highs in early and mid-2023.
+In 2023, ABC Inc. displayed steady performance across its key metrics, achieving a total revenue of £142.12M, an average utilisation ratio of 49.14%, a transaction count of 3M, and a customer acquisition cost of £2M. The quarter-wise revenue and transactions chart shows a peak in Q2, followed by a gradual decline through Q3 and Q4. Monthly revenue trends indicate fluctuations throughout the year, with noticeable highs in early and mid-2023.
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
 The entire interactive dashboard can be downloaded [here](https://github.com/JulJul00/Credit-Card_Client-Analysis/raw/main/ABC%20Inc..pbix).
@@ -57,7 +57,7 @@ The entire interactive dashboard can be downloaded [here](https://github.com/Jul
 
 ### Customer Background Analysis:
 
-* **High Revenue from Younger Age Groups:** Customers aged 20-30 generated the highest revenue at 33M, suggesting that younger customers are a significant contributor to the company’s revenue. This could be an area to focus on for targeted marketing strategies.
+* **High Revenue from Younger Age Groups:** Customers aged 20-30 generated the highest revenue at £33M, suggesting that younger customers are a significant contributor to the company’s revenue. This could be an area to focus on for targeted marketing strategies.
   
 * **High Delinquency Rate:** The delinquency rate stands at 19.88%, indicating that nearly one-fifth of customers have missed payments. This presents a potential risk for the company and may require intervention strategies to reduce defaults.
   
@@ -70,13 +70,13 @@ The entire interactive dashboard can be downloaded [here](https://github.com/Jul
 
 ### Credit Card and Expenditure Category Performance:
 
-* **High Revenue from Gold Card Activations:** Customers with Gold cards who activated within 30 days contributed significantly to revenue, with a total of 61M. This indicates that Gold card customers are highly engaged, especially soon after activation, representing a valuable customer segment.
+* **High Revenue from Gold Card Activations:** Customers with Gold cards who activated within 30 days contributed significantly to revenue, with a total of £61M. This indicates that Gold card customers are highly engaged, especially soon after activation, representing a valuable customer segment.
   
 * **Shopping Dominates Expenditure Categories:** Shopping accounts for the majority of revenue share, contributing 60.33%, which is much higher than other categories like Travel (9.95%) and Dining (4.91%). This suggests that customers prioritize shopping-related transactions, and it could be beneficial to focus promotions or rewards on this category.
   
 * **Consistent Revenue Growth in Expenditure Categories:** The trend chart shows a steady increase in total revenue across all expenditure categories, with notable peaks in April and October. This consistent growth highlights potential seasonality factors or successful campaigns during these months.
   
-* **Platinum Card Spend in Travel and Dining:** Platinum cardholders contributed significantly to revenue in both travel (5.6M) and dining (1.6M) categories. This suggests that Platinum cardholders have unique spending habits and may benefit from targeted offers in these categories to further drive loyalty and spending.
+* **Platinum Card Spend in Travel and Dining:** Platinum cardholders contributed significantly to revenue in both travel (£5.6M) and dining (£1.6M) categories. This suggests that Platinum cardholders have unique spending habits and may benefit from targeted offers in these categories to further drive loyalty and spending.
 
 ![Description of the image](https://github.com/JulJul00/Credit-Card_Client-Analysis/blob/main/ABC%20Incorporation%20Dashboard%20Screenshot/ABC%20Incorporation_Category%20Performance.jpg)
 
