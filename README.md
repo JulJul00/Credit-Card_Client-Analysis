@@ -7,7 +7,7 @@ The company has significant amounts of data on its credit card operation that ha
 
 Insights and recommendations are provided on the following key areas:
 
-- **Transaction Trend Analysis:** Evaluation of historical transaction patterns, focusing on Transaction Revenue, Order Volume, and Week on Week(WoW) flunctuations.
+- **Transaction Trend Analysis:** Evaluation of historical transaction patterns, focusing on Transaction Revenue, Order Volume, and Week over Week(WoW) flunctuations.
 - **Customer Background Analysis:** An assessment of the customer information metrics, includeds Customer Satisfaction Score, Deliquency Rate, Age Group, Job Type, and Educational Level.
 - **Credit Card and Expenditure Category Performance:** An analysis of ABC's Card Categories and Expenditure Types, includes Transaction Revenue, and Order Volume.
 
